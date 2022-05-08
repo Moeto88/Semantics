@@ -14,9 +14,9 @@ You can enter a sentence, checks grammatical status, responding with yep/no and 
 - lecturer_rel : 1-place  
 - subject_rel  : 1-place  
   
-intended grammar: university_gram  
+Intended grammar: university_gram  
   
-inputs to try with expected outcomes:  
+Inputs to try with expected outcomes:  
   
 - Martin likes maths: true  
 - Martin likes history: false  

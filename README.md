@@ -31,3 +31,4 @@ Inputs to try with expected outcomes:
 - every student who likes maths likes geometry: true  
 - every student who likes geometry likes maths: false  
 - Plato is a lecturer who likes geometry: true  
+
